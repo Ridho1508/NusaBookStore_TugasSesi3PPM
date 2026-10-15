@@ -1,4 +1,6 @@
 # nusa_bookstore
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8f1e42dd-70a0-4600-bf21-738cb2c4dbc7" />
+
 
 A new Flutter project.
 
